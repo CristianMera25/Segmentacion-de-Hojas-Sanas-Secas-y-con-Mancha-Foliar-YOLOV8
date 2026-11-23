@@ -1,4 +1,4 @@
-# LeafSeg AI: Segmentación de Patologías Foliares en Tiempo Real mediante YOLOv8
+# Segmentación de Hojas Sanas, Secas y con Mancha Foliar mediante YOLOv8
 
 Sistema de visión por computador basado en segmentación por instancias (`YOLOv8l-seg`) para la detección, clasificación y conteo automático de hojas sanas, secas y afectadas por mancha foliar en tiempo real.
 
