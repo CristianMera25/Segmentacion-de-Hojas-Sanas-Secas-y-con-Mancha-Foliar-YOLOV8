@@ -1,0 +1,1 @@
+# Segmentaci-n-de-Hojas-Sanas-Secas-y-con-Mancha-Foliar-YOLOV8
